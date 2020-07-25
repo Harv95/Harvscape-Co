@@ -1,0 +1,27 @@
+{margin: 0;
+padding: 0;}
+
+
+nav{
+text-align: center;
+font-size: 24px;
+font-color: red;
+padding: 20px;
+
+.black-text{
+  font-size: 20px;
+  color: blue;
+}
+
+.white-line{
+  color: red;
+}
+
+.phone-number{
+  color: green;
+}
+
+.list1{
+  color: silver;
+  font-size: 24px;
+}
